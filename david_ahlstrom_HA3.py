@@ -1,20 +1,3 @@
-#-------------------------------------------------------------------------------
-# david_ahlstrom_HA3
-# Student Name: David Ahlstrom
-# Python version: 
-# Submission Date: 10/23/2022
-#-------------------------------------------------------------------------------
-# Honor Code Statement: I received no assistance on this assignment that
-# violates the ethical guidelines as set forth by the
-# instructor and the class syllabus.
-#-------------------------------------------------------------------------------
-# References: Slides and Example Code
-#-------------------------------------------------------------------------------
-# Notes to grader: 
-#-------------------------------------------------------------------------------
-# Source code below
-#-------------------------------------------------------------------------------
-
 #Checks for valid course title
 class InvalidCourse(Exception):
     def __str__(self):
